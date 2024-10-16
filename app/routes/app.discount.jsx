@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { authenticate } from '../shopify.server';
 import { FormLayout, Checkbox, TextField, Button} from '@shopify/polaris';
 import { Form, useActionData, useSubmit } from "@remix-run/react";
-
+import { json } from '@remix-run/react';
 
 export const action = async ({request}) => {
 

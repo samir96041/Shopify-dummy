@@ -3,7 +3,7 @@
 client_id = "e33317d52356b109421201a6894c89a2"
 name = "shoproject1"
 handle = "shoproject1"
-application_url = "https://hiking-glance-handbags-synthetic.trycloudflare.com"
+application_url = "https://mention-processors-command-equally.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "read_products,write_discounts,write_products"
 
 [auth]
 redirect_urls = [
-  "https://hiking-glance-handbags-synthetic.trycloudflare.com/auth/callback",
-  "https://hiking-glance-handbags-synthetic.trycloudflare.com/auth/shopify/callback",
-  "https://hiking-glance-handbags-synthetic.trycloudflare.com/api/auth/callback"
+  "https://mention-processors-command-equally.trycloudflare.com/auth/callback",
+  "https://mention-processors-command-equally.trycloudflare.com/auth/shopify/callback",
+  "https://mention-processors-command-equally.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
